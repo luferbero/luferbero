@@ -4,10 +4,10 @@ With extensive administrative and customer service experience, I have a dynamic 
 
 -Studying Generation Brazil's Bootcamp 📚
 
-![Luiz Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=luferbero&show_icons=true&theme=tokyonight)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigues-371709149/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luferbero/)
+
+![Luiz Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=luferbero&show_icons=true&theme=tokyonight)
 
 ## Technologies I use! 💻
 
