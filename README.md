@@ -5,7 +5,7 @@ With extensive administrative and customer service experience, I have a dynamic 
 -Studying Generation Brazil's Bootcamp 📚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigues-371709149/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luferbero/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luferbero?igshid=YmMyMTA2M2Y=)
 
 #### l.fernando.8@hotmail.com
 
