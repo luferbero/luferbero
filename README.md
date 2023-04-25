@@ -9,8 +9,6 @@ With extensive administrative and customer service experience, I have a dynamic 
 
 #### l.fernando.8@hotmail.com
 
-![Luiz Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=luferbero&show_icons=true&theme=tokyonight)
-
 ## Technologies I use! 💻
 
 <div style="display: inline_block"><br/>
