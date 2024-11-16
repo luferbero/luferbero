@@ -1,8 +1,8 @@
 ### Hello! I'm Luiz Fernando 🖐️
 
-With extensive administrative and customer service experience, I have a dynamic profile, oriented towards teamwork and proactivity, which helps to avoid possible setbacks and solve problems more easily. I am persistent and I like innovation, which makes me create good strategies!
+Desenvolvedor Junior na Tecnocomp.
 
--Studying Generation Brazil's Bootcamp 📚
+Análise e Desenvolvimento de Sistemas 2/5📚
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigues-371709149/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luferbero?igshid=YmMyMTA2M2Y=)
